@@ -4,10 +4,10 @@
 
 <br/>
 
-<h2 align="center">✨ Aspiring Cybersecurity Professional, Ethical Hacker ✨</h2>
+<h2 align="center">✨ Aspiring Cybersecurity Professional, Penetration Tester ✨</h2>
 <div align="center">
   
-A cybersecurity undergraduate with a strong foundation in penetration testing and threat detection. My skills include developing ML-powered phishing classifiers, analyzing security data with SQL and Tableau, and performing VAPT on live systems. I hold certifications from leading organizations like ISC2, IBM, and Google, and I'm dedicated to translating technical vulnerabilities into actionable defense plans.
+A cybersecurity undergraduate with a strong foundation in penetration testing and threat detection. My skills include developing ML-powered phishing classifiers, analysing security data with SQL and Tableau, and performing VAPT on live systems. I hold certifications from leading organisations, including ISC2, IBM, and Google, and I'm dedicated to translating technical vulnerabilities into actionable defence plans.
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aboywithnousername) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-wasay-khan-a90532289/) 
 </div>
@@ -15,14 +15,14 @@ A cybersecurity undergraduate with a strong foundation in penetration testing an
 <h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,docker,tensorflow,sklearn" />
-    <img src="https://skillicons.dev/icons?i=notion,python,flask,ansible,mysql,kali," /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,docker,tensorflow,sklearn,linux,fastapi" />
+    <img src="https://skillicons.dev/icons?i=notion,python,flask,ansible,mysql,kali,java" /><br>
 </div>
 
 <h2 align="center">🏆 Profile Trophies 🏆</h2>
 <br/>
 <p align="center">
-<img src="[https://github-profile-trophy.vercel.app/?username=AlWasay125&theme=kimbie_dark&row=2&rank=-?](https://camo.githubusercontent.com/a8456d9f744a2de6a47fc18c3d4b31b0943b86268e09f911d03ed9c0f742c52b/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d416c5761736179313235267468656d653d6b696d6269655f6461726b26726f773d322672616e6b3d2d3f)" />
+<img src="https://github-profile-trophy.vercel.app/?username=AlWasay125&theme=kimbie_dark&row=1&column=5=-?" />
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
