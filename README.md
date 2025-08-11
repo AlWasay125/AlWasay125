@@ -22,7 +22,7 @@ A cybersecurity undergraduate with a strong foundation in penetration testing an
 <h2 align="center">🏆 Profile Trophies 🏆</h2>
 <br/>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AlWasay125&theme=kimbie_dark&row=2&rank=-?" />
+<img src="[https://github-profile-trophy.vercel.app/?username=AlWasay125&theme=kimbie_dark&row=2&rank=-?](https://camo.githubusercontent.com/a8456d9f744a2de6a47fc18c3d4b31b0943b86268e09f911d03ed9c0f742c52b/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d416c5761736179313235267468656d653d6b696d6269655f6461726b26726f773d322672616e6b3d2d3f)" />
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
